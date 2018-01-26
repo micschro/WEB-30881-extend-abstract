@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="my-lib.d.ts" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/ide-support/my-lib.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ide-support/my-lib.d.ts" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
